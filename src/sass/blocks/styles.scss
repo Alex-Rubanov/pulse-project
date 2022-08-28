@@ -1,3 +1,16 @@
-html {
-    font-family: 'Museo Sans', 'sans-serif'
+@import "../base/variables";
+
+* {
+    font-family: 'Museo Sans', 'sans-serif';
 }
+.container {
+    max-width: 950px;
+    margin: 0 auto;
+  
+}
+
+@import "_promo.scss";
+@import "_header.scss";
+@import "_buttons.scss";
+@import "_benefits.scss";
+@import "_media.scss";
