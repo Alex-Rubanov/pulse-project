@@ -18,6 +18,7 @@
     "sass": "^1.54.5"
   },
   "dependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "tiny-slider": "^2.9.4"
   }
 }
