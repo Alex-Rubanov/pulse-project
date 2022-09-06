@@ -1,4 +1,6 @@
-Create a new landing page/project using BEM/git/Gulp/JS/SCSS
+# pulse-project
+
+Create a new landing page/project using BEM/git/Gulp/JS/SCSS + RWD
 
 1 step
 - create structure of project
@@ -12,5 +14,3 @@ Create a new landing page/project using BEM/git/Gulp/JS/SCSS
     "gulp-sass": "^5.1.0",
     "sass": "^1.54.5"
   }
-  
-  
