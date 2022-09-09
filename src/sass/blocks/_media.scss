@@ -143,6 +143,21 @@
             margin-right: 0;
         }
     }
+    .footer {
+        &__info {
+            width: 390px;
+            height: 250px;
+            padding: 30px;
+        }
+        &__address {
+            font-size: 18px;
+            line-height: 18px;
+        }
+        &__phone {
+            font-size: 18px;
+            line-height: 18px;
+        }
+    }
         
 }
 
@@ -315,6 +330,33 @@
             margin-right: 0;
         }
     }
+    .footer {
+        &__info {
+            width: 270px;
+            height: 230px;
+            padding: 20px;
+        }
+        
+        &__address {
+            font-size: 16px;
+            line-height: 16px;
+        }
+        &__phone {
+            font-size: 16px;
+            line-height: 16px;
+        }
+        &__social {
+            justify-content: center;
+            gap: 15px;
+        }
+        &__social-link {
+            img {
+                width: 40px;
+                height: 40px;
+            }
+        }
+
+    }
 }
 @media (max-width: 575px) {
     .xs-hidden {
@@ -348,7 +390,8 @@
     .promo {
         padding: 20px 15px 30px;
         min-height: 350px;
-        background: url('../../img/first_screen_xs.jpg') center (center/cover) no-repeat;
+        // background: url('../../img/first_screen_xs.jpg') center (center/cover) no-repeat;
+        object-fit: cover;
         &__wrapper {
             margin-top: 25px;
         }
@@ -548,6 +591,36 @@
             margin-right: 0;
             padding: 0 15px 0 15px;
         }
+    }
+    .footer {
+        height: 500px;
+        iframe {
+            height: 500px;
+        }
+        &__info {
+            width: 270px;
+            height: 200px;
+        }
+        
+        &__address {
+            font-size: 14px;
+            line-height: 14px;
+        }
+        &__phone {
+            font-size: 14px;
+            line-height: 14px;
+        }
+        &__social {
+            justify-content: center;
+            gap: 15px;
+        }
+        &__social-link {
+            img {
+                width: 40px;
+                height: 40px;
+            }
+        }
+
     }
            
 }

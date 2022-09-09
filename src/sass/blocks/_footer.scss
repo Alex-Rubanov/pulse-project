@@ -37,9 +37,33 @@
         margin: 36px auto 0;
         display: flex;
         justify-content: space-between;
+        .footer__social-link {
+            border-radius: 50%;
+            transition: 0.8s all;
+            &:hover {
+                box-shadow: 10px 10px 20px #fd0202;
+                transform: translateY(-10px);
+                transition: 0.8s all;
+            }
+        }
 
     }
-    .gm-style {
-        display: none;
-    }
+    
+
+
+    // .map-responsive{
+    //     overflow:hidden;
+    //     padding-bottom:70%;
+    //     position:relative;
+    //     height:0;
+    //     iframe{
+    //         left:0;
+    //         top:0;
+    //         height:100%;
+    //         width:100%;
+    //         position:absolute;
+    //     }
+    
+    // }
+
 }

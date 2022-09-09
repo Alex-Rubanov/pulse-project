@@ -11,6 +11,12 @@
 	color: #FFFFFF;
 	border: none;
 	margin-top: 4px;
+	transition: 0.7s all;
+	&:hover {
+		box-shadow: 10px 10px 20px #f57777;
+		transform: translateY(-2px);
+		transition: 0.8s all;
+	}
     &_main {
         width: 303px;
         height: 54px;
