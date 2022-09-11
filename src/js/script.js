@@ -44,12 +44,41 @@ $(document).ready(function(){
         }) 
     });
 
+    function validateForm(form) {
+        $(form).validate({
+            rules: {
+                name: {
+                    required: true,
+                    minlength: 2
+                    
+                },
+                phone: "required",
+                email: {
+                    required: true,
+                    email: true
+                } 
+            },
+            messages: {
+                name: {
+                    required: "Введите свое имя",
+                    minlength: jQuery.validator.format("Введите {0} символа!")
+                  },
+                phone: "Введите свой номер телефона",
+                email: {
+                  required: "Введите свой почтовый ящик",
+                  email: "Ваш почтовый ящик должен быть в формате name@domain.com"
+                }
+            },
+        })
+    };
+
+    validateForm('#consult-form');
+    validateForm('#consultation form');
+    validateForm('#order form');
+
+    $('input[name=phone]').mask('+7 (999) 999-99-99');
+
   });
 
-//   $(document).ready( function() {
-//     $('.gm-style').css('display','none');
-//     // find the name of the class using inspect element and then replace
-//     // it with the class name it will work 100%
-// });
 
 
