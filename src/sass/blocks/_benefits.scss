@@ -16,10 +16,18 @@
     }   
     &__block {
         margin-top: 60px;
-        img {
+        &-icon {
             display: block;
             margin: 0 auto;
-    }      
+            width: 70px;
+            height: 65px;
+            &_animation {
+                animation: heartbeat 2s ease 1s infinite;
+                &:hover {
+                    animation-play-state: paused;
+                }
+            }
+        }      
     }   
     &__subtitle {
         font-weight: 700;
