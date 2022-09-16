@@ -84,15 +84,16 @@
             width: 50%;
             margin-left: 20px;
             padding-right: 15px;
-            list-style-type: none;
             transform: translateX(0%);
-            padding-left: 15px;
             margin-bottom: 0;
             transition: 0.5s all;
             &_active {
                 transform: translateX(-100%);
                 margin-left: 0;
-                padding-left: 15px;
+            }
+            .catalog-list {
+                list-style-type: none;
+                position: relative;
             }
             li {
                 position: relative;

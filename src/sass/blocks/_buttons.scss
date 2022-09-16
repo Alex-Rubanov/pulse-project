@@ -14,7 +14,7 @@
 	transition: 0.7s all;
 	&:hover {
 		box-shadow: 10px 10px 20px #f57777;
-		transform: translateY(-2px);
+		transform: translateY(-2px) scale(0.97);
 		transition: 0.8s all;
 	}
     &_main {
