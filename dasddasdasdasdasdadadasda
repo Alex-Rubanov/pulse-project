@@ -1,0 +1,123 @@
+[33mcommit bb6059ab76815c5578da9c591f00ec2296f2e543[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Sat Sep 17 01:58:51 2022 +0200
+
+    validate webpage on validator.W3.org/small fixes
+
+[33mcommit 614e0ab7206b2a5e3c555b83b6fc6744a76745e5[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Thu Sep 15 03:02:48 2022 +0200
+
+    added animation.css + wow.js
+
+[33mcommit 68f60b075e102c4dd7d2772290818e75dfbeae68[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Wed Sep 14 02:38:21 2022 +0200
+
+    added animation heartbeat
+
+[33mcommit cfe59c5eac709b7f884ad82c328d840b8ecdeffb[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Tue Sep 13 17:26:01 2022 +0200
+
+    Removed node_modules
+
+[33mcommit bbf07ecbec5be26f2456b92e8a13afe2fd32a080[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Tue Sep 13 03:29:48 2022 +0200
+
+    added Email POST (mailer.php) + Slow scroll script
+
+[33mcommit 95cdecca856b1c56a53dc390c2db00c8cef870c2[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Mon Sep 12 01:00:25 2022 +0200
+
+    added form validation + phone mask
+
+[33mcommit c663a3efc0646dded36ff57aef0e1d677a5804a4[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Fri Sep 9 02:39:46 2022 +0200
+
+    add modal + js
+
+[33mcommit 3d98293c869a724fbcade474e584cd0c7dffb7cf[m
+Merge: 06a137b e7fd094
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Tue Sep 6 03:12:59 2022 +0200
+
+    Merge branch 'main' of https://github.com/Alex-Rubanov/pulse-project
+
+[33mcommit 06a137bfe4f534f5973d4ef58b7fee4207c6c4ca[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Tue Sep 6 03:10:06 2022 +0200
+
+    add map in footer
+
+[33mcommit 2026f93b841a2645c2fcc8ef02da79b15d05a041[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Sun Sep 4 02:18:47 2022 +0200
+
+    add tabs+script.js and new section comments/feedback
+
+[33mcommit e7fd09471622365c2ee72064f5d9b380e132ca2d[m
+Author: Alex-Rubanov <111541001+Alex-Rubanov@users.noreply.github.com>
+Date:   Sat Sep 3 03:00:03 2022 +0200
+
+    Create README.md
+
+[33mcommit d9e52deccd356ab52911584a89e168da9e7c56de[m
+Author: Alex-Rubanov <111541001+Alex-Rubanov@users.noreply.github.com>
+Date:   Sat Sep 3 02:58:56 2022 +0200
+
+    Delete Readme
+
+[33mcommit 7ccfef9f6ea3ae02cd787dba565bf0b892d302bd[m
+Author: Alex <example@gmail.com>
+Date:   Sat Sep 3 02:45:27 2022 +0200
+
+    add slider + content section (tab)
+
+[33mcommit f7951621567fae11b9f96bbc025de4d4d0382f2a[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Mon Aug 29 03:30:17 2022 +0200
+
+    VS commit
+
+[33mcommit c4401434f9e98599547064b20bdcada05f13e8c4[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Mon Aug 29 03:09:28 2022 +0200
+
+    add 3 section/form + small fixes
+
+[33mcommit e68c6516845226847c403d2bb05a795363b0e8c0[m
+Merge: 2a0b12f 94bf7fa
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Sun Aug 28 04:27:33 2022 +0200
+
+    Merge branch 'main' of https://github.com/Alex-Rubanov/pulse-project
+
+[33mcommit 2a0b12feaeeb1a211a23e84162dbbed289da1199[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Sun Aug 28 04:27:24 2022 +0200
+
+    add section benefits + RWD media.scss
+
+[33mcommit 94bf7fad51b499fea45f394aa89b3ada4bfa288b[m
+Author: Alex-Rubanov <111541001+Alex-Rubanov@users.noreply.github.com>
+Date:   Fri Aug 26 18:51:24 2022 +0200
+
+    Create Readme
+    
+    Project description
+
+[33mcommit 824f6aa7f55623127c99e7b03abc5a5cf8ea74f3[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Fri Aug 26 16:48:50 2022 +0200
+
+    add gitignore file & gulp json / config
+
+[33mcommit 6a67373cad140f1118cd28810fea8e1d5821b07f[m
+Author: Alex <rubanovv.alex@gmail.com>
+Date:   Fri Aug 26 16:15:28 2022 +0200
+
+    start of new project / config
